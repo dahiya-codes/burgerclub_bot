@@ -4,7 +4,7 @@
   <img src="https://github.com/chiragHimself/BurgClub_BOT/blob/main/Demo/burger_club_icon.png" alt="Burger Club">
 </p>
 
-Welcome to BurgClub_BOT, your friendly assistant for all things Burger Club! 🍔
+Welcome to BurgClub_BOT, your friendly assistant for  Burger Club! 🍔
 
 ## Project Overview
 
